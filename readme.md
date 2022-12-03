@@ -13,7 +13,7 @@ Dieser Schritt ist erfüllt, wenn ihr folgendes Bild beim öffnen von Metamask s
 
 ## Test Account Erstellen
 
- 1. Metamask Add-In im Browser öffnen und auf Profilbild klicken. 
+ 1. Metamask Add-In im Browser öffnen und auf Profilbild klicken.
  ![Accoun](https://github.com/WebThor/BlockchainLab/blob/main/images/Account1.png)
  2. Auf Account importieren klicken.
  ![Account2](https://github.com/WebThor/BlockchainLab/blob/main/images/Account2.png)
@@ -48,9 +48,9 @@ Mit "Speichern" bestätigen
  3. Wählt Injected Provider - MetaMask aus.
  ![Inject2](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject2.png)
  4. Es sollte sich nun Metamask öffnen und nach einem Account fragen. Wählt dort den Test Account aus. 
- ![Inject21](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject21.png)
+ ![Inject21](https://github.com/WebThor/BlockchainLab/blob/main/images/inject21.png)
  5. Bestätigt den Account mit Verbinden.
- ![Verbinden](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject32.png)
+ ![Verbinden](https://github.com/WebThor/BlockchainLab/blob/main/images/inject32.png)
 6. Unter Account sollte nun euer Account auftauchen.
 
 ## Smart Contract Laden
