@@ -13,18 +13,25 @@ Dieser Schritt ist erfüllt, wenn ihr folgendes Bild beim öffnen von Metamask s
 
 ## Test Account Erstellen
 
- 1. Metamask Add-In im Browser öffnen und auf Profilbild klicken ![Accoun](https://github.com/WebThor/BlockchainLab/blob/main/images/Account1.png)
- 2. Auf Account importieren klicken ![Account2](https://github.com/WebThor/BlockchainLab/blob/main/images/Account2.png)
- 3. Privaten Schlüssel aus Liste (unten) auswählen und importieren ![Account3](https://github.com/WebThor/BlockchainLab/blob/main/images/Account3.png)
- 4. Die Nummer unter eurem Account sollte nun gleich der Accountnummer eures privaten Schlüssel sein. Habt ihr zum Beispiel den ersten privaten Schlüssel (0x4f4b89dad...) gewählt, dann sollte unter Account die Zahl 0x30C8F9F4a... stehen. ![Account 4](https://github.com/WebThor/BlockchainLab/blob/main/images/Account4.png)
+ 1. Metamask Add-In im Browser öffnen und auf Profilbild klicken 
+ ![Accoun](https://github.com/WebThor/BlockchainLab/blob/main/images/Account1.png)
+ 2. Auf Account importieren klicken 
+ ![Account2](https://github.com/WebThor/BlockchainLab/blob/main/images/Account2.png)
+ 3. Privaten Schlüssel aus Liste (unten) auswählen und importieren 
+ ![Account3](https://github.com/WebThor/BlockchainLab/blob/main/images/Account3.png)
+ 4. Die Nummer unter eurem Account sollte nun gleich der Accountnummer eures privaten Schlüssel sein. Habt ihr zum Beispiel den ersten privaten Schlüssel (0x4f4b89dad...) gewählt, dann sollte unter Account die Zahl 0x30C8F9F4a... stehen. 
+ ![Account 4](https://github.com/WebThor/BlockchainLab/blob/main/images/Account4.png)
 
 Ihr habt euch erfolgreich einen Account auf dem Testnetz erstellt.
 
 ## Mit dem Testnetnetzwerk verbinden
 
- 1. Metamask Add-In im Browser öffnen und auf Ethereum Hauptnetz klicken ![Metamask](https://github.com/WebThor/BlockchainLab/blob/main/images/Metamask.png)
- 2. Auf "Netzwerk hinzufügen" klicken ![Schritt1](https://github.com/WebThor/BlockchainLab/blob/main/images/Schritt1.png)
- 3. "Ein Netzwerk manuell hinzufügen" wählen ![Schritt2](https://github.com/WebThor/BlockchainLab/blob/main/images/Schritt%202.png)
+ 1. Metamask Add-In im Browser öffnen und auf Ethereum Hauptnetz klicken 
+ ![Metamask](https://github.com/WebThor/BlockchainLab/blob/main/images/Metamask.png)
+ 2. Auf "Netzwerk hinzufügen" klicken 
+ ![Schritt1](https://github.com/WebThor/BlockchainLab/blob/main/images/Schritt1.png)
+ 3. "Ein Netzwerk manuell hinzufügen" wählen 
+ ![Schritt2](https://github.com/WebThor/BlockchainLab/blob/main/images/Schritt%202.png)
  4. Netzerk manuell hinzufügen.
 	 - Netzwerkname: TestNetzwerkDHBW
 	 - Neue RPC-URL: Siehe Tafel
@@ -35,11 +42,15 @@ Mit "Speichern" bestätigen
 
 ## Online Solidity IDE
 
- 1. Sobald Matamask erfolgreich installiert wurde, geht auf die [Solidity IDE](http://remix.ethereum.org)
- 2. Geht auf das unterste Icon ![Inject1](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject1.png)
- 3. Wählt Injected Provider - MetaMask aus.![Inject2](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject2.png)
- 4. Es sollte sich nun Metamask öffnen und nach einem Account fragen. Wählt dort den Test Account aus. ![Inject21](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject21.png)
- 5. Bestätigt den Account mit Verbinden![Verbinden](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject32.png)
+ 1. Sobald Matamask erfolgreich installiert wurde, geht auf die [Solidity IDE](http://remix.ethereum.org) website.
+ 2. Geht auf das unterste Icon.
+ ![Inject1](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject1.png)
+ 3. Wählt Injected Provider - MetaMask aus.
+ ![Inject2](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject2.png)
+ 4. Es sollte sich nun Metamask öffnen und nach einem Account fragen. Wählt dort den Test Account aus. 
+ ![Inject21](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject21.png)
+ 5. Bestätigt den Account mit Verbinden.
+ ![Verbinden](https://github.com/WebThor/BlockchainLab/blob/main/images/Inject32.png)
 6. Unter Account sollte nun euer Account auftauchen.
 
 ## Smart Contract Laden
