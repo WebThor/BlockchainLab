@@ -13,11 +13,11 @@ Dieser Schritt ist erfüllt, wenn ihr folgendes Bild beim öffnen von Metamask s
 
 ## Test Account Erstellen
 
- 1. Metamask Add-In im Browser öffnen und auf Profilbild klicken 
+ 1. Metamask Add-In im Browser öffnen und auf Profilbild klicken. 
  ![Accoun](https://github.com/WebThor/BlockchainLab/blob/main/images/Account1.png)
- 2. Auf Account importieren klicken 
+ 2. Auf Account importieren klicken.
  ![Account2](https://github.com/WebThor/BlockchainLab/blob/main/images/Account2.png)
- 3. Privaten Schlüssel aus Liste (unten) auswählen und importieren 
+ 3. Privaten Schlüssel aus Liste (unten) auswählen und importieren.
  ![Account3](https://github.com/WebThor/BlockchainLab/blob/main/images/Account3.png)
  4. Die Nummer unter eurem Account sollte nun gleich der Accountnummer eures privaten Schlüssel sein. Habt ihr zum Beispiel den ersten privaten Schlüssel (0x4f4b89dad...) gewählt, dann sollte unter Account die Zahl 0x30C8F9F4a... stehen. 
  ![Account 4](https://github.com/WebThor/BlockchainLab/blob/main/images/Account4.png)
